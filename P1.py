@@ -20,7 +20,6 @@ def colorselection1(img):
     red_threshold = 0
     green_threshold = 229
     blue_threshold = 0
-    ######
 
     rgb_threshold = [red_threshold, green_threshold, blue_threshold]
 
